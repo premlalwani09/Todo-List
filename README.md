@@ -23,7 +23,7 @@ A simple and interactive To-Do List application built with HTML, CSS, and JavaSc
 
 ## Demo
 
-Check out the live demo: [Live Demo] https://github.com/premlalwani09/Todo-List
+Check out the live demo: [Live Demo] https://premlalwani09.github.io/Todo-List/
 
 ![Screenshot of the To-Do List application](TodoList.png)
 
